@@ -1,7 +1,7 @@
 # Obtener información básica de un PC
 
 ## Requisitos:
-- Instalar Node js 
+- Instalar Node js [Descargar - Página oficial](https://nodejs.org/es/)
 
 ## Uso:
 

@@ -1,0 +1,12 @@
+{
+  "name": "infopc",
+  "version": "1.0.0",
+  "description": "Ver detalles de un PC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "Martin Ruvian",
+  "license": "ISC"
+}
